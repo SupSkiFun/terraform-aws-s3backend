@@ -6,4 +6,5 @@ It works but likely is NOT something you want for production.
 File terraform.tfvars could look like:
 
 region    = "us-east-1"
+
 namespace = "my-test-1"
